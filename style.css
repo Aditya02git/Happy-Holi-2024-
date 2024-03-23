@@ -100,12 +100,4 @@ video
     cursor: pointer;
   }
 
-/* @keyframes hue{
-    0%{
-        -webkit-filter: hue-rotateundefined0deg;
-    }
-    100%{
 
-        -webkit-filter: hue-rotateundefined700deg;
-    }
-} */
